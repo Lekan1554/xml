@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="mart.css"?>
+<!-- <?xml-schema type="text/css" href="mart.css"?> -->
+<mart>
+<detail>
+<header>Customer Details: </header>
+<name>Customer Name</name>
+<address>Customer Adress</address>
+<invoice>Invoice.No</invoice>
+</detail>
+</mart>
+

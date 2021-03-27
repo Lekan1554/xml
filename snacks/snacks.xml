@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="snacks.css"?>
+<!DOCTYPE mart SYSTEM 'mart.dtd'>
+<!-- don't forget to do the schema for the xml document -->
+<snacks>
+<items>
+<item>
+<name>Nutmeg Spices:</name>
+<quantity>20</quantity>
+</item>
+
+<item>
+<name>Noodles:</name>
+<quantity>20</quantity>
+</item>
+
+<item>
+<name>Golden morn:</name>
+<quantity>20</quantity>
+</item>
+
+<item>
+<name>Oreo plus:</name>
+<quantity>20</quantity>
+</item>
+
+<item>
+<name>Chocolate:</name>
+<quantity>20</quantity>
+</item>
+
+<item>
+<name>Milk:</name>
+<quantity>20</quantity>
+</item>
+
+<item>
+<name>Digestive:</name>
+<quantity>20</quantity>
+</item>
+
+</items>
+</snacks>
+

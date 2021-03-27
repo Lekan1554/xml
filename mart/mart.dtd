@@ -1,0 +1,6 @@
+<!ELEMENT snacks (items) *>
+<!ELEMENT items(item)>
+<!ELEMENT item(name?, quantity?)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT quantity(#PCDATA)>
+

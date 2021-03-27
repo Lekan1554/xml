@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?xml-stylesheet type='text/style' href='mart.css'?>
+<mart>
+<detail>
+<name>name</name>
+<address>adress</address>
+<invoice>invoice no</invoice>
+</detail>
+</mart>
+
